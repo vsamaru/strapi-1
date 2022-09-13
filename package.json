@@ -7,7 +7,9 @@
     "description": "Publish changes via Cloudflare Pages.",
     "kind": "plugin"
   },
-  "dependencies": {},
+  "dependencies": {
+    "strapi-plugin-cloudflare-pages": "^0.4.1"
+  },
   "author": {
     "name": "Hugo Sarti",
     "email": "sarhugo@gmail.com",
